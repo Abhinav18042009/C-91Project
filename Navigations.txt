@@ -1,0 +1,18 @@
+Stack Navigator:
+Login/Signup
+
+Drawer Navigator:
+Home
+Profile
+Logout
+
+Stack Navigator:
+Home Screen -> Cell/Microorganisms
+Cell -> Different types of cells
+Microorganisms -> Different types of microbes
+DTC -> Cell Organelles
+DTM -> Info/Main Microbes/Comment
+CO -> Different Cell Organnelles
+MM -> Different Main Microbes
+DCO -> Info & Comment
+DMM -> Info & Comment
